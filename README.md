@@ -7,7 +7,8 @@ Small game project as the programming test for Brew Monster Studio. Featuring Ma
 
 ![Game Screenshot](https://github.com/havud29/Maze-Game-Demo-Project/blob/master/Screenshots/screenshot.png)
 
-
-[Gameplay Video](https://github.com/havud29/Maze-Game-Demo-Project/blob/master/Screenshots/video.mp4)
-
 ---
+
+
+https://github.com/user-attachments/assets/3047ffa1-339b-4010-b536-6a049843e088
+
