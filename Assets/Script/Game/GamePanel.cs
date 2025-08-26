@@ -16,7 +16,7 @@ namespace Script
         [SerializeField] private TextMeshProUGUI youwinloseText;
         [SerializeField] private Button _replayButton;
 
-        private int _givenTime = 10;
+        private int _givenTime = 120;
         private bool isTimerRunning = false;
         private float currentTime;
 
