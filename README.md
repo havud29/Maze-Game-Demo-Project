@@ -5,9 +5,9 @@ Small game project as the programming test for Brew Monster Studio. Featuring Ma
 ---
 
 
-![Game Screenshot](Maze-Game-Demo-Project/Screenshots/screenshot.png)
+![Game Screenshot]([Maze-Game-Demo-Project/Screenshots/screenshot.png](https://raw.githubusercontent.com/havud29/Maze-Game-Demo-Project/master/Screenshots/screenshot.png))
 
 
-[Gameplay Video](Maze-Game-Demo-Project/Screenshots/video.mp4)
+[Gameplay Video]([Maze-Game-Demo-Project/Screenshots/video.mp4](https://raw.githubusercontent.com/havud29/Maze-Game-Demo-Project/master/Screenshots/video.mp4))
 
 ---
